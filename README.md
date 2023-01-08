@@ -1,5 +1,6 @@
 # Tracy Profiler
 
+
 [![Sponsor](.github/sponsor.png)](https://github.com/sponsors/wolfpld/)
 
 ### A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.
